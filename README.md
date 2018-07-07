@@ -21,3 +21,7 @@ Simple Java Skeleton for creating Web-based applications (Only leightweight depe
 These dependencies can be easily changed by editing the src/main/resources folder
 - jQuery 
 - Spectre CSS
+
+# Caution
+
+Do not use this way for sensitive data, as the server does not offer https encryption
