@@ -15,3 +15,9 @@ Simple Java Skeleton for creating Web-based applications (Only leightweight depe
 
 - Create simple Java-based Applications with nice-looking HTML UX, especially for single/few user environments
 - Especially useful if you have to do some tasks which are too complex to achieve with other leightweight environments, or simply if you know Java better than other languages.
+
+# Frontend-dependencies used
+
+These dependencies can be easily changed by editing the src/main/resources folder
+- jQuery 
+- Spectre CSS
