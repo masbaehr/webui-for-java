@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="libs/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="libs/undertow-core-2.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/xnio-api-3.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="libs/xnio-nio-3.3.8.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
