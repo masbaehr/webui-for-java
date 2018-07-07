@@ -9,6 +9,7 @@ Simple Java Skeleton for creating Web-based applications (Only leightweight depe
   - Commons Collections
   - Undertow Core, Xnio API+Impl, JBoss Logging
 - No Maven, just "Run as" -> "Java application"
+- Can be imported as Eclipse project (Created with Eclipse Photon)
 
 # Use-cases
 
